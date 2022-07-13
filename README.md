@@ -5,8 +5,8 @@ You can use the [editor on GitHub](https://github.com/WynterAC/NotionWidgets2022
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ## Widgets
-[Currency Converter](https://github.com/WynterAC/NotionWidgets2022/blob/03d0dc22da7e2426000279ffb8ba134e36436821/currency%20converter.html)
-[Greetings](https://github.com/WynterAC/NotionWidgets2022/blob/03d0dc22da7e2426000279ffb8ba134e36436821/Greeting.html)
+- [Currency Converter](https://github.com/WynterAC/NotionWidgets2022/blob/03d0dc22da7e2426000279ffb8ba134e36436821/currency%20converter.html)
+- [Greetings](https://github.com/WynterAC/NotionWidgets2022/blob/03d0dc22da7e2426000279ffb8ba134e36436821/Greeting.html)
 
 ### Markdown
 
